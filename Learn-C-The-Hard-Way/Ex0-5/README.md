@@ -12,9 +12,9 @@ My Text Editor Choices(In Order of Preference):
 *Gedit - Default text editor for many Linux installs, simple with a decent amount of features
 *Vim - Most difficult to utilize effectively, if you're up for a bit of a learning curve in your text editor it can be very effective. Based on commands rather than interfaces/menus
 
-##Valgrind
+###Valgrind
 Valgrind is a framework that analysis tools are built on, these tools can detect various bugs that go on in the program.
-###Install
+####Install
 Follow the instructions on the site, patch the install if necessary (glibc 2.21 did not work for me otherwise).
 
 
