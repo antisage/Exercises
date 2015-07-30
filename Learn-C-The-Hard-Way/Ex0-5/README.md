@@ -4,7 +4,7 @@ Basic Runthrough
 These exercises deal with getting C to run properly with basic makefiles and using the program 'valgrind' to assist with debugging a C program.
 
 On my Ubuntu machine I used:
-###	$ sudo apt-get install build-essential
+######	$ sudo apt-get install build-essential
 to make sure that I had the necessary tools to make/run C programs.
 
 My Text Editor Choices(In Order of Preference):
@@ -14,7 +14,7 @@ My Text Editor Choices(In Order of Preference):
 
 ###Valgrind
 Valgrind is a framework that analysis tools are built on, these tools can detect various bugs that go on in the program.
-####Install
-Follow the instructions on the site, patch the install if necessary (glibc 2.21 did not work for me otherwise).
+
+To Install: Follow the instructions on the site, patch the install if necessary (was not compatible with glibc 2.21 otherwise).
 
 
