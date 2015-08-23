@@ -15,6 +15,6 @@ My Text Editor Choices(In Order of Preference):
 ###Valgrind
 Valgrind is a framework that analysis tools are built on, these tools can detect various bugs that go on in the program.
 
-To Install: Follow the instructions on the site, patch the install if necessary (was not compatible with glibc 2.21 otherwise).
+To Install: Follow the instructions on the site, (typing in the command "install valgrind") patch the install if necessary (was not compatible with glibc 2.21 for me otherwise).
 
 
