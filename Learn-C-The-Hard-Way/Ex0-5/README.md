@@ -8,9 +8,9 @@ On my Ubuntu machine I used:
 to make sure that I had the necessary tools to make/run C programs.
 
 My Text Editor Choices(In Order of Preference):
-*Sublime Text 2 - While it is not technically free, it currently has an unlimited evaluation period, it offers an array of features while also being very pretty and user friendly
-*Gedit - Default text editor for many Linux installs, simple with a decent amount of features
-*Vim - Most difficult to utilize effectively, if you're up for a bit of a learning curve in your text editor it can be very effective. Based on commands rather than interfaces/menus
+* Sublime Text 2 - While it is not technically free, it currently has an unlimited evaluation period, it offers an array of features while also being very pretty and user friendly
+* Gedit - Default text editor for many Linux installs, simple with a decent amount of features
+* Vim - Most difficult to utilize effectively, if you're up for a bit of a learning curve in your text editor it can be very effective. Based on commands rather than interfaces/menus
 
 ###Valgrind
 Valgrind is a framework that analysis tools are built on, these tools can detect various bugs that go on in the program.
