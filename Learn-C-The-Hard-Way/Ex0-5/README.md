@@ -19,8 +19,9 @@ To Install: Follow the instructions on the site, (typing in the command "install
 
 ####Misc Notes
 
-1. Easy Way To Install Sublime-Text
-> sudo add-apt-repository ppa:webupd8team/sublime-text-2
-> sudo apt-get update
-> sudo apt-get install sublime-text
-
+1. Easy Way To Install Sublime-Text:
+  ```
+    sudo add-apt-repository ppa:webupd8team/sublime-text-2
+    sudo apt-get update
+    sudo apt-get install sublime-text
+  ```
