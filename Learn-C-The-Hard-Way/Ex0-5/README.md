@@ -25,3 +25,9 @@ Easy Way To Install Sublime-Text
     sudo apt-get update
     sudo apt-get install sublime-text
   ```
+Navigating ncurse menus (used in some EULAs)
+  ```
+    Tab Key: Move from one elements to the next
+    Spacebar: Click selected element
+    Element: Click default element
+  ```
