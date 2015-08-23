@@ -17,4 +17,11 @@ Valgrind is a framework that analysis tools are built on, these tools can detect
 
 To Install: Follow the instructions on the site, (typing in the command "install valgrind") patch the install if necessary (was not compatible with glibc 2.21 for me otherwise).
 
+####Misc Notes
 
+Easy Way To Install Sublime-Text
+```
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo apt-get update
+sudo apt-get install sublime-text
+```
