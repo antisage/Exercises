@@ -29,6 +29,7 @@ Floating Point
     Declared with float or double depending on how big they need to be, printed with %f.(%lf for double)
 Character
     Declared with char, written with a ' character around the char, printed with %c.
+    chars are encoded in ASCII so they can be used (probably mistakenly) as a number.
 String (Array of Characters)
     Declared with char name[], written with " characters, printed with %s. 
 ```
