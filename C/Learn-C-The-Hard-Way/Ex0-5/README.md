@@ -27,7 +27,7 @@ Floating Point
 Character
     Declared with char, written with a ' character around the char, printed with %c.
 String (Array of Characters)
-    Declared with char name[], written with " characters, and printed with %s. 
+    Declared with char name[], written with " characters, printed with %s. 
 ```
 
 
