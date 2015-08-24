@@ -23,9 +23,9 @@ Integers
     You declare Integers with the int keyword, and print them with %d.
     Long ints printed with %ld and unsigned with %ud
 Floating Point
-    Declared with float or double depending on how big they need to be, and printed with %f.(%lf for double)
+    Declared with float or double depending on how big they need to be, printed with %f.(%lf for double)
 Character
-    Declared with char, written with a ' (single-quote) character around the char, and then printed with %c.
+    Declared with char, written with a ' character around the char, printed with %c.
 String (Array of Characters)
     Declared with char name[], written with " characters, and printed with %s. 
 ```
