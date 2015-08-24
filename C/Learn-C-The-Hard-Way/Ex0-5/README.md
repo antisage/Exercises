@@ -17,6 +17,20 @@ Valgrind is a framework that analysis tools are built on, these tools can detect
 
 To Install: Follow the instructions on the site, (typing in the command "install valgrind") patch the install if necessary (was not compatible with glibc 2.21 for me otherwise).
 
+###Basic Types of Data
+```
+Integers
+    You declare Integers with the int keyword, and print them with %d.
+    Long ints printed with %ld and unsigned with %ud
+Floating Point
+    Declared with float or double depending on how big they need to be, and printed with %f.(%lf for double)
+Character
+    Declared with char, written with a ' (single-quote) character around the char, and then printed with %c.
+String (Array of Characters)
+    Declared with char name[], written with " characters, and printed with %s. 
+```
+
+
 ####Misc Notes
 
 Easy Way To Install Sublime-Text
