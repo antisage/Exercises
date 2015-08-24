@@ -1,4 +1,7 @@
-#Exercises 0-5
+#Exercises 0-10
+
+These exercises are very simple and straightforward for the most part so I will not give a breakdown of each one.
+
 Basic Runthrough
 
 These exercises deal with getting C to run properly with basic makefiles and using the program 'valgrind' to assist with debugging a C program.
